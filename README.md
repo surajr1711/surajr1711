@@ -1,7 +1,5 @@
 ## Hi, I'm Suraj 👋
-In 2017, I quit my sales job to explore web development. Over the years, I delved into several subjects including React, R3F, WebFlow, Wordpress, branding strategy, designing, 3d modeling, public speaking (Toastmasters) and business. I've honed my skills through part-time work, online courses, and personal projects. My strengths include discipline, breaking down problems into manageable tasks, and clear communication. 
-
-My vision is to develop websites and applications from strategy through design to development. I want to build tools that help people manage their lives and support their personal development. Although I have aspirations to explore React Native and WebGL, currently I'm focused on becoming a proficient full-stack web developer, so I'm excited about switching to web development fulltime.
+I want to build tools that help people manage their lives and support their personal development. I work in React/Next and I'm currently learning full-stack development. Although I have aspirations to explore React Native and WebGL, currently I'm focused on becoming a proficient full-stack web developer. I quit my sales job in 2017 and experimented with several subjects namely, Wordpress, Webflow, Illustrator, Blender and public speaking. I did several freelance design and development work during this time and now I'm excited about making the switch to a full-time web development career.
 
 <!--
 **surajr1711/surajr1711** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
